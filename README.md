@@ -1,4 +1,4 @@
-#fuentes para iconos
+# fuentes para iconos
 Copiar la fuente en ~/.fonts
 si no existe la carpeta toca crearla
 otra posible ruta puede ser /usr/share/fonts/
